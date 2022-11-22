@@ -1,5 +1,8 @@
-<!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=osvaldinei&theme=vue-dark&show_icons=true)-->
+## Hi there, I'm Osvaldinei Oliveira 👋
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=osvaldinei&show_icons=true&theme=gruvbox_light)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldinei&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## I'm a Developer!
 <!--
 **osvaldinei/osvaldinei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
